@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * This code is meant as an example of the file upload.
+ * Please use at your own risk
+ */
+
+ /*
 $ds          = DIRECTORY_SEPARATOR;  
  
 $storeFolder = 'uploads';
@@ -16,5 +22,5 @@ if ( !empty($_FILES) && $enable_upload ) {
     move_uploaded_file($tempFile,$targetFile); 
      
 }
-
+*/
 ?>
